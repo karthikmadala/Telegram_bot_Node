@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+token_monitor_cache.json
+token_monitor.log
+.env
